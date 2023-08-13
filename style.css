@@ -43,9 +43,12 @@ body {
 }
 
 .coin .coin-name h3 {
-    color: #fff;
     font-size: 26px;
     text-transform: uppercase;
+}
+
+.coin .coin-name a {
+    color: #fff;
 }
 
 .coin .coin-name span {
