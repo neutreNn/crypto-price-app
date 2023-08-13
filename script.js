@@ -17,7 +17,7 @@ ids=bitcoin%2Ccardano%2Cdogecoin%2Cethereum%2Clitecoin%
                     <img src="images/${coin}.png">
                 </div>
                 <div class="coin-name">
-                    <h3>${coin}</h3>
+                    <h3><a href="https://www.coingecko.com/ru/Криптовалюты/${coin}">${coin}</a></h3>
                     <span>/USD</span>
                 </div>
                 <div class="coin-price">
